@@ -1,5 +1,6 @@
 #Salazar Chavez Cristian Uriel
 #21310215
+
 class Graph:
     def __init__(self, graph_dict=None):
         if graph_dict is None:
