@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215
-
 def backtracking_search(assignment, variables, domains, constraints):
     if len(assignment) == len(variables):
         return assignment
