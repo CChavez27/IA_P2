@@ -2,7 +2,6 @@
 #21310215
 
 import heapq
-
 class Node:
     def __init__(self, state, cost, path):
         self.state = state
