@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215     
-
 import random
 
 class TabuSearch:
