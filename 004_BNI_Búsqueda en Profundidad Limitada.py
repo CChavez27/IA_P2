@@ -1,4 +1,4 @@
-#Salazar Chavez Cristian Uriel
+#Salazar Chavez Cristian 
 #21310215
 
 class Graph:
