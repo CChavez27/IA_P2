@@ -2,7 +2,6 @@
 #21310215    
 
 import heapq
-
 class Graph:
     def __init__(self, graph_dict=None):
         if graph_dict is None:
