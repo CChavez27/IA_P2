@@ -12,7 +12,6 @@ def hill_climbing(problem, max_iterations):
             break
         current_state = next_state
     return current_state
-
 class Problem:
     def __init__(self, initial_state, heuristic, neighbors):
         self.initial_state = initial_state
