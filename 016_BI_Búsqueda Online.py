@@ -1,6 +1,5 @@
 #Cristian Uriel Salazar Chavez
 #21310215     
-
 import random
 
 class OnlineSearchAgent:
