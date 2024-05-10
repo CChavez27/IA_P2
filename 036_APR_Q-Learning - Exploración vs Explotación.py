@@ -2,7 +2,6 @@
 #21310215
 
 import numpy as np
-
 class ExplorationExploitation:
     def __init__(self, epsilon):
         self.epsilon = epsilon
