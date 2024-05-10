@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215 
-
 class DecisionNode:
     def __init__(self, name, probabilities, children=None):
         self.name = name
