@@ -2,7 +2,6 @@
 #21310215  
 
 from pomdp_py import POMDP, BeliefState, DiscreteSpace, DiscreteDistribution
-
 # Definir los estados, acciones, observaciones y recompensas
 states = ['S0', 'S1', 'S2']
 actions = ['A0', 'A1']
