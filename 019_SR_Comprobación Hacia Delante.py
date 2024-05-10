@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215   
-
 def forward_checking(assignment, variables, domains, constraints):
     for variable in variables:
         if variable not in assignment:
