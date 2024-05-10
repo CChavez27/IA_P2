@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215    
-
 class ConflictDirectedBackjumping:
     def __init__(self, variables, domains, constraints):
         self.variables = variables
