@@ -8,7 +8,6 @@ class UtilityFunction:
     def calculate_utility(self, outcome):
         utility = sum(w * x for w, x in zip(self.weights, outcome))
         return utility
-
 # Ejemplo de uso
 weights = [0.5, 0.3, 0.2]
 utility_function = UtilityFunction(weights)
