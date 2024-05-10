@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215
-
 import networkx as nx
 
 def cut_conditioning(graph):
