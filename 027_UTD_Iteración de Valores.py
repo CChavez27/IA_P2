@@ -45,7 +45,6 @@ rewards = {
 }
 gamma = 0.9
 epsilon = 0.01
-
 # Inicializar la Iteración de Valores
 value_iteration = ValueIteration(num_states, num_actions, transitions, rewards, gamma, epsilon)
 
