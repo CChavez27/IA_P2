@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215
-
 def constraint_propagation(variables, domains, constraints):
     queue = [(variable, neighbor) for variable in variables for neighbor in variables if variable != neighbor]
     while queue:
