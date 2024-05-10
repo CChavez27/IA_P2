@@ -2,7 +2,6 @@
 #21310215    
 
 import numpy as np
-
 class QLearning:
     def __init__(self, num_states, num_actions, alpha, gamma, epsilon, max_steps):
         self.num_states = num_states
