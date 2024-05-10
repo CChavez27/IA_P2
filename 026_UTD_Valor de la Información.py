@@ -17,7 +17,6 @@ class UtilityFunction:
     def calculate_utility(self, outcome):
         utility = sum(w * x for w, x in zip(self.weights, outcome))
         return utility
-
 # Ejemplo de uso
 prior_prob = [0.4, 0.6]  # Probabilidad a priori de los resultados
 posterior_probs = [[0.7, 0.3], [0.2, 0.8]]  # Probabilidades posteriores para cada resultado
